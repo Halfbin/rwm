@@ -1,0 +1,7 @@
+.*/
+dist/
+assets/
+cabal.sandbox.config
+*.prof
+install
+

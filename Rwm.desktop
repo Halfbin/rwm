@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Rwm
+Comment=crap wm
+Exec=rwm
+TryExec=rwm
+Type=Application
+X-LightDM-DesktopName=Rwm
+DesktopNames=Rwm
+Keywords=wm;windowmanager;
+
